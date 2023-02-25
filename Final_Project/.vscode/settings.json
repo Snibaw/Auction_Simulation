@@ -1,0 +1,8 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "auction.h": "c",
+        "ligne.h": "c",
+        "datathread.h": "c"
+    }
+}
